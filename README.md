@@ -3,7 +3,7 @@
 ## 1. Cel projektu
 Celem projektu było opracowanie zautomatyzowanego narzędzia analitycznego do oceny terminowości dostaw i czasu trwania tras logistycznych.  
 Projekt powstał w środowisku **Excel VBA** i umożliwia pełną automatyzację procesu raportowania danych operacyjnych.  
-Dzięki wdrożeniu rozwiązania czas przygotowania raportu został skrócony z kilku godzin do kilku sekund, przy jednoczesnym wyeliminowaniu błędów manualnych.
+Dzięki wdrożeniu rozwiązania czas przygotowania raportu został skrócony z kilku/kilkunastu godzin do kilku sekund, przy jednoczesnym wyeliminowaniu błędów manualnych.
 
 ---
 
@@ -60,6 +60,8 @@ Użytkownik może:
 
 Cały proces nie wymaga znajomości VBA i może być wykonywany przez osoby nietechniczne.
 
+<img width="2553" height="1388" alt="image" src="https://github.com/user-attachments/assets/4b497b42-8e5d-440a-a14e-39798d30e8fd" />
+
 ---
 
 ## 5. Przykładowe zastosowania
@@ -99,5 +101,11 @@ Cały proces nie wymaga znajomości VBA i może być wykonywany przez osoby niet
 Projekt stanowi przykład skutecznej automatyzacji analiz operacyjnych w środowisku Excel.  
 Zastosowanie VBA pozwoliło całkowicie wyeliminować manualne działania analityków i uzyskać powtarzalne wyniki w ustandaryzowanym formacie raportowym.  
 Rozwiązanie może być wykorzystane w analizie terminowości dostaw, raportowaniu SLA, ocenie jakości procesów logistycznych oraz monitorowaniu wskaźników KPI.
+
+<img width="2552" height="1388" alt="image" src="https://github.com/user-attachments/assets/ea52ff4b-51b2-4559-8ae5-a8ba5b0b8af2" />
+
+<img width="2549" height="1388" alt="image" src="https://github.com/user-attachments/assets/6a2a4f21-4a48-42ab-b0ce-fbbb0423eaef" />
+
+
 
 
