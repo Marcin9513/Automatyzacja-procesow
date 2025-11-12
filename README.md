@@ -1,2 +1,2 @@
 # Automatyzacja-proces-w
-Projekt automatyzujący analizę terminowości dostaw w środowisku Excel VBA. Narzędzie oblicza czasy trwania tras logistycznych, identyfikuje przekroczenia progów SLA oraz generuje raporty i tabele przestawne w pełni automatycznie.
+Automatyzacja raportowania danych logistycznych w Excel VBA. Skrypt analizuje czas realizacji dostaw, wskazuje opóźnienia, tworzy podsumowania oddziałów i raporty pivotowe. Redukcja czasu analizy z kilku godzin do kilku sekund.
